@@ -2,7 +2,7 @@
 
 ## More
 
-See [my blog post]() for full details.
+FIXME See [my blog post]() for full details.
 
 ## Modus operandi
 
