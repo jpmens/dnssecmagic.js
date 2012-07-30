@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <style type="text/css">
+	#dnssecmagic {
+		color: white;
+	}
+  </style>
+  <script type="text/javascript" src="jquery.min.js"></script>
+  <script type="text/javascript" src="dnssecmagic.js"></script>
+</head>
+<body>
+	<p>You resolved the hostname of this site via: <span id='dnssecmagic'></span></p>
+
+
+	<!-- Place this image somewhere at the bottom of your page -->
+	<span><img
+		src="http://www.dnssec-failed.org/1x1.gif"
+		width="1"
+		height="1"
+		id="dnssecmagicpixel"
+		onload="dnssecmagicpixelLoaded();" /></span>
+
+
+</body>
+</html>
+
