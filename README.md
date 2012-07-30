@@ -38,7 +38,7 @@ parameter depending on whether DNSSEC was detected or not.
 
 Yes.
 
-I'm neither a designer, nor am I a Web developer. Fix things and tell.
+I'm neither a designer, nor am I a Web developer. Fix things and send me pull-requests.
 Please.
 
 ## Credits
