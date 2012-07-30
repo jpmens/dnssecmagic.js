@@ -2,7 +2,9 @@
 
 ## More
 
-FIXME See [my blog post]() for full details.
+See [my blog post][10] for full details.
+
+[10]: http://jpmens.net/2012/07/30/is-my-web-site-being-used-via-dnssec-validator/
 
 ## Bogus ^W Modus operandi
 
